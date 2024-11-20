@@ -1,4 +1,4 @@
-public class LastnameHeap {
+public class BellitaHeap {
     private int[] heap;
     private int size;
     private int capacity;
